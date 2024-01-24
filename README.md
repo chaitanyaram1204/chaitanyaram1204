@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Ram</h1>
 <h3 align="center">Passionate third-year Computer Science student with a keen interest in data science and web development and coding. Proficient in Various programming languages, SQL, and machine learning. Committed to leveraging data to drive insights and innovation.</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhjcmVjaDJ1ZjJlbTFobHZtMmVmYXRlc3BueGM0aG95Z2JocWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="chaitanyaram1204" align ="right" height=320px/> </p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhjcmVjaDJ1ZjJlbTFobHZtMmVmYXRlc3BueGM0aG95Z2JocWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="chaitanyaram1204" align ="right" height=270px/> </p>
 
 - 🔭 I’m currently working on [xyz](https://)
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Computer Science fundamentals**
 
 - 📫 How to reach me **chaitanyaamajala@gmail.com**
-
-- 📄 Know about my experiences [https://resume](https://resume)
 
 - ⚡ Fun fact **I am lazy**
 
