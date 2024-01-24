@@ -1,3 +1,4 @@
+![logo](https://github.com/chaitanyaram1204/chaitanyaram1204/blob/main/img1.png)
 <h1 align="center">Hi 👋, I'm Chaitanya Ram</h1>
 <h3 align="center">Passionate third-year Computer Science student with a keen interest in data science and web development and coding. Proficient in Various programming languages, SQL, and machine learning. Committed to leveraging data to drive insights and innovation.</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhjcmVjaDJ1ZjJlbTFobHZtMmVmYXRlc3BueGM0aG95Z2JocWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="chaitanyaram1204" align ="right" height=270px/> </p>
