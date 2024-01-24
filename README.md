@@ -3,13 +3,13 @@
 <h3 align="center">Passionate third-year Computer Science student with a keen interest in data science and web development and coding. Proficient in Various programming languages, SQL, and machine learning. Committed to leveraging data to drive insights and innovation.</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhjcmVjaDJ1ZjJlbTFobHZtMmVmYXRlc3BueGM0aG95Z2JocWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="chaitanyaram1204" align ="right" height=270px/> </p>
 
-- 🔭 I’m currently working on [xyz](https://)
+- 🔭 I’m currently working on **Big Data And Data Analytics**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web development**
 
-- 🤝 I’m looking for help with [Web](https://)
+- 🤝 I’m looking for help with **Web**
 
-- 👨‍💻 All of my projects are available at [https://porfolio](https://porfolio)
+- 👨‍💻 All of my projects are available at **Github**
 
 - 💬 Ask me about **Computer Science fundamentals**
 
